@@ -1,0 +1,14 @@
+101 Single NULL
+102 Single NULL
+103 Single NULL
+201 Double NULL
+202 Double NULL
+203 Family NULL
+204 Family NULL
+301 Vip NULL
+302 Vip NULL
+401 Single NULL
+402 Single NULL
+403 Single NULL
+404 Family NULL
+501 Suite NULL
